@@ -44,7 +44,7 @@ Theme documentation [is available here](https://colorlib.com/wp/support/dazzling
 * License URI: http://www.gnu.org/licenses/gpl.html
 * Dazzling theme, Copyright 2014-2016 https://colorlib.com
 * Dazzling WordPress theme is distributed under the terms of the GNU GPL
-* Dazzling is based on [Underscores](http://underscores.me/), (C) 2012-2017 Automattic, Inc.
+* Dazzling is based on [Underscores](http://underscores.me/), (C) 2012-2016 Automattic, Inc.
 
 #Credits#
 
@@ -54,17 +54,16 @@ Dazzling theme uses:
 * [Bootstrap](http://getbootstrap.com/) licensed under [MIT license](https://github.com/twbs/bootstrap/blob/master/LICENSE)
 * [WP-Bootstrap-NavWalker](https://github.com/twittem/wp-bootstrap-navwalker) licensed under the GPLv2 license
 * [FlexSlider](https://github.com/woothemes/FlexSlider) by WooThemes licensed under the GPLv2 license
+* [respond.js](https://github.com/scottjehl/Respond) by Scott Jehl licensed under the MIT license
+* [html5shiv.js](https://github.com/aFarkas/html5shiv) by Alexander Farkas licensed under a dual license system (MIT or GPL version 2)
 
 #Changelog#
 
-####2.1.2 - 20.08.2017####
+####2.1.3 - 11.12.2016####
 
-* Improved accesibility with keyboard navigation
-
-####2.1.1 - 17.05.2017####
-
-* Improved mobile layout
-* Added Ukranian translation
+* Added wp_body_open
+* Added License & Copyright
+* Added unminified Scripts and styles
 
 ####2.1.0 - 30.06.2016####
 
